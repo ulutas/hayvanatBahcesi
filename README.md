@@ -18,7 +18,7 @@ Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı ola
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
 
 
-                         +-------------+
+             +-------------+
              |     Hayvan   |
              +-------------+
              | tür adı     |
