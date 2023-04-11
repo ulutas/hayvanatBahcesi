@@ -1,5 +1,6 @@
-# hayvanatBahcesi
+# Hayvanat Bahçesi Yönetimi
 
+Not = Lütfen tabloyu düzgün görüntülemek için 'Raw' formatında açın.
 Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
 
 Hayvanlar:
