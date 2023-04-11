@@ -1,0 +1,32 @@
+            +-------------+
+             |     Hayvan  |
+             +-------------+
+             | tür adı     |
+             | ağırlık     |
+             | yaş         |
+             | getDosage() |
+             | getFeedSchedule() |
+             +-------------+
+                     ^
+                     |
+         +-----------------------------+
+         |                             |
+   +-----------+                +------------------+
+   |     At    |                |   Kedigiller     |
+   +-----------+                +------------------+
+   |   cins    |                |   cins           |
+   |   tüy     |                |   avlanmaZamani  |
+   |   getDosage() |             |   getDosage()    |
+   |   getFeedSchedule() |        |   getFeedSchedule() |
+   +-----------+                +------------------+
+                                    ^
+                                    |
+                               +--------------+
+                               |  Kemirgen   |
+                               +--------------+
+                               |   cins       |
+                               |   yuvaSayısı |
+                               |   getDosage() |
+                               |   getFeedSchedule() |
+                               +--------------+
+
