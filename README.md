@@ -51,3 +51,5 @@ Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bi
                                +--------------+
 
 
+
+Yukarıdaki sınıf diyagramı, hayvan sınıfından türetilen At, Kedigiller ve Kemirgenler sınıflarını göstermektedir. Her sınıf, Hayvan sınıfının özelliklerine sahiptir (tür adı, ağırlık, yaş vb.), ancak her biri kendi özellikleri ve işlevleri ile değiştirilmiştir (örneğin, getDosage() ve getFeedSchedule() metodları). Bu, polimorfizmin temel özelliği olan tek bir arabirim kullanarak farklı sınıfları kullanarak aynı işlevselliği sağlar.
