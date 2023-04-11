@@ -49,3 +49,5 @@ Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bi
                                |   getDosage() |
                                |   getFeedSchedule() |
                                +--------------+
+
+
