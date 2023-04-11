@@ -18,8 +18,8 @@ Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı ola
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
 
 
-             +-------------+
-             |     Hayvan  |
+                         +-------------+
+             |     Hayvan   |
              +-------------+
              | tür adı     |
              | ağırlık     |
@@ -49,6 +49,8 @@ Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bi
                                |   getDosage() |
                                |   getFeedSchedule() |
                                +--------------+
+
+
 
 
 
